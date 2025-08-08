@@ -1,46 +1,44 @@
-#  Proyecto Sprint 2 - Store 1
+# Sprint 2 - Project: Customer Loyalty Program Part 2 - Store 1
 
 ---
 
-##  Descripción del Proyecto
+## Project Description
 
-En esta etapa final, la tienda busca personalizar mejor sus campañas publicitarias mediante un análisis más profundo de los datos. Esto incluye:
+In this final stage, the store seeks to better personalize its advertising campaigns through deeper data analysis. This includes:
 
-- Segmentación de clientes
-- Análisis de tendencias de consumo a lo largo del tiempo
+- Customer segmentation
+- Analysis of consumer trends over time
 
-Tu misión es utilizar tus habilidades en análisis de datos para satisfacer estas necesidades, enfrentando conjuntos de datos más complejos y tareas más desafiantes.
-
----
-
-##  Estructura del Proyecto
-
-El proyecto se desarrolla en un Jupyter Notebook que contiene:
-
-1. **Descripción del conjunto de datos**
-2. **Instrucciones paso a paso**
-3. **Celdas de código para completar**
-4. **Espacios para comentarios y análisis**
+The goal is to use data analysis skills to meet these needs, tackling more complex data sets and more challenging tasks.
 
 ---
 
-##  Etapas del Proyecto
+## Project Structure
 
-1. **Lectura del proyecto**  
-   Familiarízate con los datos y los objetivos.
+The project is developed in a Notebook containing:
 
-2. **Resolución de los pasos**  
-   Escribe tu código en las celdas correspondientes, con comentarios claros.
-
-3. **Revisión final**  
-   Asegúrate de que todo esté completo, funcional y bien documentado.
+1. **Dataset description**
+2. **Step-by-step instructions**
+3. **Code cells to complete**
+4. **Spaces for comments and analysis**
 
 ---
 
-##  Lista de Comprobación
+## Project Stages
 
-- [x] Todas las etapas completadas
-- [x] Celdas de código llenas y comentadas
-- [x] Revisión final realizada
+1. **Reading the project**
+Become familiar with the data and objectives.
 
+2. **Resolution of the steps**
+Write code in the appropriate cells, with clear comments.
 
+3. **Final Review**
+Code is complete, functional, and well-documented.
+
+---
+
+## Checklist
+
+- All steps completed
+- Code cells filled out and commented
+- Final review completed
